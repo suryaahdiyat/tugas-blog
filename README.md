@@ -1,4 +1,15 @@
+Documentation
+
 1. Landing page ![alt text](https://github.com/suryaahdiyat/tugas-blog/blob/main/documentation/docs_1.png?raw=true)
+2. All Article page ![alt text](https://github.com/suryaahdiyat/tugas-blog/blob/main/documentation/docs_2.png?raw=true)
+3. Detail page ![alt text](https://github.com/suryaahdiyat/tugas-blog/blob/main/documentation/docs_3.png?raw=true)
+4. All Article By someone page ![alt text](https://github.com/suryaahdiyat/tugas-blog/blob/main/documentation/docs_4.png?raw=true)
+5. Login page ![alt text](https://github.com/suryaahdiyat/tugas-blog/blob/main/documentation/docs_5.png?raw=true)
+6. Register page ![alt text](https://github.com/suryaahdiyat/tugas-blog/blob/main/documentation/docs_6.png?raw=true)
+7. Admin page ![alt text](https://github.com/suryaahdiyat/tugas-blog/blob/main/documentation/docs_7.png?raw=true)
+8. User page ![alt text](https://github.com/suryaahdiyat/tugas-blog/blob/main/documentation/docs_8.png?raw=true)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
